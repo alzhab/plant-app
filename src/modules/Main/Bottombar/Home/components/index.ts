@@ -1,0 +1,5 @@
+export {default as Weather} from './Weather'
+export {default as Shedule} from './Shedule'
+export {default as Articles} from './Articles'
+export {default as Content} from './Content'
+export {default as Header} from './Header'
